@@ -1,0 +1,25 @@
+500 1754 2players
+300 340 2players
+300 103 2players
+300 640 3players
+300 703 3players
+300 840 3players
+300 103 2players
+500 2054 2players
+500 3042 2players
+500 5024 2players
+500 5054 3players
+500 6042 3players
+500 7024 3players
+500 12042 4players
+500 70224 4players
+1000 20012 2players
+1000 12012 2players
+1000 13012 2players
+1000 20012 3players
+1000 12012 3players
+1000 240142 3players
+1000 200132 4players
+1000 210132 4players
+1000 305122 4players
+
